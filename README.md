@@ -1,1 +1,2 @@
 # Mantrac_Internship_Dashboards
+This repository contains a series of Power BI dashboards created during my internship in the Financial Control and Reporting team at Mantrac's Finance Group department. These dashboards offer insights into key performance metrics at the country and product levels, identify performance gaps, and compare actual financial outcomes with budgeted targets. All dashboards were built using Power BI's built-in sample financial data to demonstrate analytical and visualization capabilities.
